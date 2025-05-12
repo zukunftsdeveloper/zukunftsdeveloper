@@ -1,5 +1,7 @@
 
-![one-piece-ruffy](https://github.com/user-attachments/assets/2f8c575a-a585-4e89-a29c-8788bc2761c2)
+![one-piece-ruffy(2)](https://github.com/user-attachments/assets/f55bd670-8367-4c9c-afbd-6467acec516e)
+
+
 
 <h1>Hi there 👋, I'm currently learning Java & SQL</h1>
 
