@@ -1,3 +1,7 @@
+
+![one-piece-ruffy](https://github.com/user-attachments/assets/eae01199-077e-4ea8-87e1-d63ab7b5cd2e)
+
+
 <h1>Hi there 👋, I'm currently learning Java & SQL</h1>
 
 # curruntly learning:
